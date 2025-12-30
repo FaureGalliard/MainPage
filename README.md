@@ -56,19 +56,6 @@ Trabajo constantemente en proyectos propios, documentación técnica y aprendiza
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
 
 
-## 🛠️ Stack técnico
-### Lenguajes
-- Java, C++, Python, Go, TypeScript
-- HTML, CSS
-### Frameworks & Tools
-- Node.js, Tailwind CSS
-- Git, Docker
-### Bases de datos
-- PostgreSQL, MySQL, MongoDB
-### Hardware & Prototipado
-- Raspberry Pi, ESP32, Arduino Mega
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=fauregalliard&icon=0&color=0)](https://visitcount.itsvg.in)
 ###
