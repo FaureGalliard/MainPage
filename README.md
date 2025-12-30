@@ -11,7 +11,7 @@
  <img src="https://komarev.com/ghpvc/?username=fauregalliard&label=Profile%20views&color=333B45&style=flat" alt="fauregalliard" /> </p>
 
 ---
-![GitHub metrics](https://metrics.lecoq.io/fauregalliard)  
+<!--![GitHub metrics](https://metrics.lecoq.io/fauregalliard)  -->
 
 # About Me: 
 
