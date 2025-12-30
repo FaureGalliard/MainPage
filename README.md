@@ -1,6 +1,6 @@
-
+```markdown
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Angel+Crispin..;++;Self-taught+Front-End+Developer,;Software+Engineer+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..:)"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Angel+Crispin..;++;Self-taught+Front-End+Developer,;Software+Engineer+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuff..:)"></a>
 </p>
 
 ---
@@ -11,12 +11,13 @@
 # About Me: 
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=fauregalliard&label=Profile%20views&color=333B45&style=flat" alt="fauregalliard" /> </p>
+
 <br><br>
 - :school: I am a `Junior` student of **Software Engineering** and **Statistics** at **UPC** & **UNMSM** (Peru).
-- :trophy: Participant in competitive programming contests such as `IEEE` `ICPC` and other university-level competitions.
-- :technologist: I love using software and engineering as solutions for real-world problems.
+- :trophy: Participant in competitive programming contests such as `IEEE ICPC` and other university-level competitions.
+- :technologist: I love using **software and engineering** as solutions for real-world `problems`.
 - :computer: Competitive programmer on `Codeforces`, `AtCoder`, `LeetCode`, `CodeChef`, and other platforms.
-- :nerd_face: Always learning new things and improving my technical skills.
+- :nerd_face: Always `learning new things` and improving my technical skills.
 - :thinking: Open to `internships`, `research`, and future `job opportunities`.
 <br>
 
@@ -79,4 +80,4 @@ Trabajo constantemente en proyectos propios, documentación técnica y aprendiza
 
 ###
 ⭐ *Si algo de aquí te sirve o te inspira, siéntete libre de explorar mis repositorios.*
-
+```
