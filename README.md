@@ -24,15 +24,12 @@
 - :thinking: Open to `internships`, `research`, and future `job opportunities`.
 <br>
 
-Estudiante de **Ingeniería de Software (UPC)** y **Estadística (UNMSM)**  
-Soy un desarrollador e ingeniero en formación con fuerte enfoque práctico. Me interesa construir **soluciones reales**, desde sistemas de software hasta prototipos físicos, robótica y automatización.  
-
-Trabajo constantemente en proyectos propios, documentación técnica y aprendizaje.
 
 ## 🌍 Idiomas
-- 🇬🇧 Inglés: C1
-- 🇫🇷 Francés: B2
-- 🇰🇷 Coreano: A1
+- 🇬🇧 English: C1
+- 🇫🇷 French: B2
+- 🇰🇷 Korean: A2
+- 🇪🇸 Spanish: native
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelcrispin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angelcrispinvaldivia@gmail.com)
@@ -78,7 +75,6 @@ Trabajo constantemente en proyectos propios, documentación técnica y aprendiza
 [![](https://visitcount.itsvg.in/api?id=fauregalliard&icon=0&color=0)](https://visitcount.itsvg.in)
 ###
 
-<img src="https://raw.githubusercontent.com/fauregalliard/fauregalliard/output/snake.svg" alt="Snake animation" />
 
 
 ###
