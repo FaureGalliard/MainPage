@@ -1,6 +1,6 @@
-```markdown
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Angel+Crispin..;++;Self-taught+Front-End+Developer,;Software+Engineer+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuff..:)"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Angel+Crispin..;++;Self-taught+Front-End+Developer,;Software+Engineer+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..:)"></a>
 </p>
 
 ---
@@ -17,8 +17,10 @@
 - :trophy: Participant in competitive programming contests such as `IEEE ICPC` and other university-level competitions.
 - :technologist: I love using **software and engineering** as solutions for real-world `problems`.
 - :computer: Competitive programmer on `Codeforces`, `AtCoder`, `LeetCode`, `CodeChef`, and other platforms.
+- :student: Currently learning `Computer Science`, `Software Engineering`, and `Applied Statistics`.
 - :nerd_face: Always `learning new things` and improving my technical skills.
 - :thinking: Open to `internships`, `research`, and future `job opportunities`.
+- :boom: Building projects under **Cobalto Engineering Projects** — focused on software, hardware, and applied technology.
 <br>
 
 Estudiante de **Ingeniería de Software (UPC)** y **Estadística (UNMSM)**  
@@ -80,4 +82,4 @@ Trabajo constantemente en proyectos propios, documentación técnica y aprendiza
 
 ###
 ⭐ *Si algo de aquí te sirve o te inspira, siéntete libre de explorar mis repositorios.*
-```
+
